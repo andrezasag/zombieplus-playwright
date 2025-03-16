@@ -1,0 +1,82 @@
+{
+    "create": {
+        "title": "Guerra Mundial Z",
+        "overview": "Ex-investigador da ONU tenta salvar o mundo de uma pandemia global que transforma as pessoas em zumbis. A missão leva a uma corrida contra o tempo para evitar a extinção da humanidade.",
+        "company": "Paramount Pictures",
+        "release_year": 2013,
+        "featured": false,
+        "cover": "imagens/guerra_mundial_z.jpg"
+    },
+    "exterminio": {
+        "title": "Extermínio",
+        "overview": "Após um vírus zumbi devastar a Grã-Bretanha, um grupo de sobreviventes luta para sobreviver enquanto enfrenta tanto os infectados quanto os próprios horrores de um mundo em colapso.",
+        "company": "Fox Searchlight Pictures",
+        "release_year": 2002,
+        "featured": false,
+        "cover": "imagens/exterminio.jpg"
+    },
+    "a_noite_dos_mortos_vivos": {
+        "title": "A Noite dos Mortos-Vivos",
+        "overview": "Um grupo de pessoas se refugia em uma casa isolada para se proteger de uma horda de mortos-vivos. À medida que a tensão cresce, os sobreviventes enfrentam perigos internos e externos.",
+        "company": "Romero Pictures",
+        "release_year": 1968,
+        "featured": false,
+        "cover": "imagens/a_noite_dos_mortos_vivos.jpg"
+    },
+    "o_hospedeiro": {
+        "title": "O Hospedeiro",
+        "overview": "Após a liberação de um agente tóxico, uma criatura mutante emerge e sequestra a filha de uma família. A luta para resgatar a jovem enfrenta não só a criatura, mas o governo em busca de controle.",
+        "company": "Showbox",
+        "release_year": 2006,
+        "featured": false,
+        "cover": "imagens/o_hospedeiro.jpg"
+    },
+    "resident_evil": {
+        "title": "Resident Evil",
+        "overview": "Uma equipe de elite precisa combater uma ameaça biológica que transformou os funcionários de uma corporação em zumbis. Eles precisam desarmar a catástrofe antes que o mundo seja infectado.",
+        "company": "Screen Gems",
+        "release_year": 2002,
+        "featured": false,
+        "cover": "imagens/resident_evil.jpg"
+    },
+    "os_invasores_de_corpos": {
+        "title": "Os Invasores de Corpos",
+        "overview": "Uma epidemia de zumbis ameaça dominar o mundo. Quando um grupo de amigos se refugia em um bar, eles precisam sobreviver ao ataque, enquanto tentam entender a origem da infecção.",
+        "company": "United Artists",
+        "release_year": 1978,
+        "featured": false,
+        "cover": "imagens/os_invasores_de_corpos.jpg"
+    },
+    "madrugada_dos_mortos": {
+        "title": "Madrugada dos Mortos",
+        "overview": "Após uma epidemia de zumbis tomar conta do mundo, um grupo de sobreviventes se refugia em um shopping center. Porém, eles logo percebem que a luta pela sobrevivência é mais difícil do que imaginam.",
+        "company": "Universal Pictures",
+        "release_year": 2004,
+        "featured": false,
+        "cover": "imagens/madrugada_dos_mortos.jpg"
+    },
+    "a_volta_dos_mortos_vivos": {
+        "title": "A Volta dos Mortos-Vivos",
+        "overview": "Quando um experimento dá errado e libera um gás que ressuscita os mortos, os trabalhadores de um depósito enfrentam uma luta desesperada pela sobrevivência contra zumbis insaciáveis.",
+        "company": "Orion Pictures",
+        "release_year": 1985,
+        "featured": false,
+        "cover": "imagens/a_volta_dos_mortos_vivos.jpg"
+    },
+    "o_retorno_dos_mortos_vivos_2": {
+        "title": "O Retorno dos Mortos-Vivos 2",
+        "overview": "Após o gás tóxico vazar novamente, os mortos começam a ressurgir, e um grupo de adolescentes tenta sobreviver ao caos. A situação se complica quando eles descobrem que os mortos estão mais rápidos.",
+        "company": "Orion Pictures",
+        "release_year": 1988,
+        "featured": false,
+        "cover": "imagens/o_retorno_dos_mortos_vivos2.jpg"
+    },
+    "shaun_of_the_dead": {
+        "title": "Shaun of the Dead",
+        "overview": "Shaun e seus amigos precisam lidar com uma invasão de zumbis em sua cidade. Eles tentam se refugiar em um pub, mas a situação fica cada vez mais caótica e hilária.",
+        "company": "StudioCanal",
+        "release_year": 2004,
+        "featured": false,
+        "cover": "imagens/shaun_of_the_dead.jpg"
+    }
+}

@@ -1,0 +1,19 @@
+{
+  "name": "zombieplus",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {},
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "@faker-js/faker": "^9.5.0",
+    "@playwright/test": "^1.48.2",
+    "@types/node": "^22.9.0",
+    "pg": "^8.14.0"
+  },
+  "dependencies": {
+    "-": "^0.0.1"
+  }
+}
