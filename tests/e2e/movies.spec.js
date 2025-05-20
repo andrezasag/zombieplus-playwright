@@ -28,8 +28,6 @@ test('deve poder remover um filme', async ({ page, request }) => {
 
     await page.movies.remove(movie.title)
     await page.popup.haveText('Filme removido com sucesso.')
-
-
 })
 
 

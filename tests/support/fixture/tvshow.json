@@ -1,0 +1,66 @@
+{
+    "create": {
+        "title": "Origem",
+        "overview": "Descrição da série aqui",
+        "company": "Paramount Pictures",
+        "release_year": 2013,
+        "seasons": "3",
+        "featured": false,
+        "cover": "/covers/movies/wwz.png"
+    },
+    "duplicate": {
+        "title": "The Office",
+        "overview": "Descrição da série aqui",
+        "company": "Paramount Pictures",
+        "release_year": 2002,
+        "seasons": "7",
+        "featured": false,
+        "cover": "/covers/movies/exterminio.jpg"
+    },
+    "to_remove": {
+        "title": "Reacher",
+        "overview": "Descrição da série aqui",
+        "company": "Paramount Pictures",
+        "release_year": 1968,
+        "seasons": "3",
+        "featured": false,
+        "cover": "/covers/movies/zumbilandia.jpg"
+    },
+    "search": {
+        "input": "seriado",
+        "outputs": [
+            "Seriado 1",
+            "Seriado 2",
+            "Seriado 3"
+        ],
+        "data": [
+            {
+                "title": "Seriado 1",
+                "overview": "Descrição da série aqui",
+                "company": "Paramount Pictures",
+                "release_year": 2004,
+                "seasons": "3",
+                "featured": false,
+                "cover": "/covers/movies/madrugada.jpg"
+            },
+            {
+                "title": "Seriado 2",
+                "overview": "Descrição da série aqui",
+                "company": "Paramount Pictures",
+                "release_year": 1985,
+                "seasons": "3",
+                "featured": false,
+                "cover": "/covers/movies/mostor-vivos-2.jpg"
+            },
+            {
+                "title": "Seriado 3",
+                "overview": "Descrição da série aqui",
+                "company": "Paramount Pictures",
+                "release_year": 1988,
+                "seasons": "3",
+                "featured": false,
+                "cover": "/covers/movies/mostor-vivos-2.jpg"
+            }
+        ]
+    }
+}
