@@ -1,16 +1,19 @@
+require('dotenv').config()
+
 const { expect } = require('@playwright/test')
 
 
 export class Api {
 
     constructor(request) {
+        this.baseApi = process.env.BASE_API
         this.request = request
         this.token = undefined
     }
 
     async setToken() {
 
-        const response = await this.request.post('http://localhost:3333/sessions', {
+        const response = await this.request.post(this.baseApi + '/sessions', {
             data: {
                 email: 'admin@zombieplus.com',
                 password: 'pwd123'
@@ -24,7 +27,7 @@ export class Api {
     }
 
     async getCompanyIdByName(companyName) {
-        const response = await this.request.get('http://localhost:3333/companies', {
+        const response = await this.request.get(this.baseApi + '/companies', {
             headers: {
                 Authorization: this.token
             },
@@ -46,7 +49,7 @@ export class Api {
 
 
 
-        const response = await this.request.post('http://localhost:3333/movies', {
+        const response = await this.request.post(this.baseApi + '/movies', {
             headers: {
                 Authorization: this.token,
                 ContentType: 'multipart/form-data',
@@ -70,7 +73,7 @@ export class Api {
 
         const companyId = await this.getCompanyIdByName(tvshow.company)
 
-        const response = await this.request.post('http://localhost:3333/tvshows', {
+        const response = await this.request.post(this.baseApi + '/tvshows', {
             headers: {
                 Authorization: this.token,
                 ContentType: 'multipart/form-data',
